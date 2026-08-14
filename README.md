@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Amin ðŸ‘‹
+# Hi, I'm Amin 👋
 
 ### AI Software Developer building useful systems with Computer Vision, LLMs, and Automation
 
@@ -17,7 +17,7 @@
 
 ## About me
 
-I am an AI Software Developer focused on building practical AI systemsâ€”not just experimenting with models. My work currently sits at the intersection of **LLM applications, RAG systems, AI agents, Computer Vision, backend services, and workflow automation**.
+I am an AI Software Developer focused on building practical AI systems—not just experimenting with models. My work currently sits at the intersection of **LLM applications, RAG systems, AI agents, Computer Vision, backend services, and workflow automation**.
 
 My path started with Electrical Engineering, microcontrollers, embedded systems, and robotics. Over time, I moved toward Computer Vision and Deep Learning, and then toward production-oriented AI software. That background still shapes how I work: I enjoy projects that connect software to a real problem and produce something people can actually use.
 
@@ -35,24 +35,24 @@ My path started with Electrical Engineering, microcontrollers, embedded systems,
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>ðŸŽ­ <a href="https://github.com/Amin-Tgz/PersianPoetAgents">PersianPoetAgents</a></h3>
+      <h3>🎭 <a href="https://github.com/Amin-Tgz/PersianPoetAgents">PersianPoetAgents</a></h3>
       <p>An interactive pixel-art world where Persian poets answer questions about their poems and ideas through an Agentic RAG architecture.</p>
       <p><code>Python</code> <code>RAG</code> <code>Agents</code> <code>LLMs</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>âœï¸ <a href="https://github.com/Amin-Tgz/IpadTest">Pencil AI</a></h3>
+      <h3>✏️ <a href="https://github.com/Amin-Tgz/IpadTest">Pencil AI</a></h3>
       <p>An iPad-friendly AI drawing experience: users draw a character, the system understands it, and the character becomes interactive.</p>
       <p><code>React</code> <code>Web App</code> <code>Computer Vision</code> <code>AI Interaction</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>ðŸ§  Visual RAG</h3>
+      <h3>🧠 Visual RAG</h3>
       <p>A production-oriented Visual RAG system for working with visual documents and multimodal information.</p>
       <p><code>Computer Vision</code> <code>Multimodal AI</code> <code>vLLM</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>âš™ï¸ AI Workflow Automation</h3>
+      <h3>⚙️ AI Workflow Automation</h3>
       <p>Practical AI automations for organizational processes, including document classification, chatbots, RPA, and data validation.</p>
       <p><code>FastAPI</code> <code>Docker</code> <code>RPA</code> <code>LLMs</code></p>
     </td>
@@ -78,9 +78,9 @@ Some of my earlier open-source work includes [OpenCV ROI selection](https://gith
   <img src="https://skillicons.dev/icons?i=python,typescript,react,fastapi,docker,postgres,linux,git" alt="Tech stack">
 </p>
 
-**AI:** LLMs Â· RAG Â· Agents Â· Embeddings Â· Computer Vision Â· OCR Â· Multimodal AI  
-**Backend & Deployment:** FastAPI Â· Docker Â· PostgreSQL Â· MinIO Â· Linux Â· Ollama Â· vLLM Â· LiteLLM  
-**Automation:** Selenium Â· n8n Â· RPA Â· Document Processing
+**AI:** LLMs · RAG · Agents · Embeddings · Computer Vision · OCR · Multimodal AI  
+**Backend & Deployment:** FastAPI · Docker · PostgreSQL · MinIO · Linux · Ollama · vLLM · LiteLLM  
+**Automation:** Selenium · n8n · RPA · Document Processing
 
 ## GitHub activity
 
