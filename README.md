@@ -84,18 +84,6 @@ Some of my earlier open-source work includes [OpenCV ROI Selection](https://gith
 **Backend & Deployment:** FastAPI · Docker · PostgreSQL · MinIO · Linux · Ollama · vLLM · LiteLLM  
 **Automation:** Selenium · n8n · RPA · Document Processing
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amin-Tgz&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="Amin's GitHub stats" />
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Amin-Tgz&layout=compact&hide_border=true&theme=tokyonight" alt="Amin's top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=Amin-Tgz&theme=tokyonight&hide_border=true" alt="Amin's GitHub streak" />
-
-</div>
 
 # 🚀 My Contributions Snake
 
