@@ -2,7 +2,7 @@
 
 # Hi, I'm Amin 👋
 
-### AI Software Developer building practical products with AI
+### Applied AI engineer, building practical products with AI 💖
 
 <p>
   <a href="https://github.com/Amin-Tgz"><img src="https://img.shields.io/badge/GitHub-Amin--Tgz-181717?style=flat&logo=github" alt="GitHub"></a>
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About me
 
-I'm an AI Software Developer who enjoys building useful, tangible products with AI. My work spans **LLM applications, RAG systems, AI agents, Computer Vision, backend services, and workflow automation**.
+I'm an Applied AI engineer who enjoys building useful, tangible products with AI. My work spans **LLM applications, RAG systems, AI agents, Computer Vision, backend services, and workflow automation**.
 
 I began with Electrical Engineering, microcontrollers, embedded systems, and robotics. I then moved into Computer Vision and Deep Learning, before focusing on AI software. That journey still shapes how I work: I care about connecting technology to real problems and creating things that people can actually use.
 
