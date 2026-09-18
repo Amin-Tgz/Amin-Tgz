@@ -2,7 +2,7 @@
 
 # Hi, I'm Amin 👋
 
-### Applied AI engineer, building practical products with AI 💖
+### Applied AI engineer, building practical, human-centered AI products 💖
 
 <p>
   <a href="https://github.com/Amin-Tgz"><img src="https://img.shields.io/badge/GitHub-Amin--Tgz-181717?style=flat&logo=github" alt="GitHub"></a>
@@ -11,7 +11,7 @@
 
 <img src="amin-hero-loop.gif" width="260" alt="Animated skull artwork with fire and smoke" />
 
-<p><i>From an idea to a working product ✨</i></p>
+<p><i>From an idea to a useful AI product — thoughtfully built.</i></p>
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About me
 
-I'm an Applied AI engineer who enjoys building useful, tangible products with AI. My work spans **LLM applications, RAG systems, AI agents, Computer Vision, backend services, and workflow automation**.
+I'm an Applied AI engineer who enjoys building useful, tangible products with AI. 
 
 I began with Electrical Engineering, microcontrollers, embedded systems, and robotics. I then moved into Computer Vision and Deep Learning, before focusing on AI software. That journey still shapes how I work: I care about connecting technology to real problems and creating things that people can actually use.
 
@@ -44,17 +44,17 @@ I began with Electrical Engineering, microcontrollers, embedded systems, and rob
     <td width="50%" valign="top">
       <h3>✏️ <a href="https://github.com/Amin-Tgz/IpadTest">Pencil AI</a></h3>
       <p>An iPad-friendly AI drawing experience where users draw a character, the system understands it, and the character becomes interactive.</p>
-      <p><code>React</code> <code>Web App</code> <code>Computer Vision</code> <code>AI Interaction</code></p>
+      <p><code>React</code> <code>Web App</code> <code>Interactive Art</code> <code>Multimodal AI</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Visual RAG</h3>
+      <h3>🧠 Visual RAG</h3><p><i>Enterprise / private implementation</i></p>
       <p>A Visual RAG system for searching and working with visual documents and multimodal information.</p>
       <p><code>Computer Vision</code> <code>Multimodal AI</code> <code>vLLM</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ AI Workflow Automation</h3>
+      <h3>⚙️ AI Workflow Automation</h3><p><i>Enterprise / private implementation</i></p>
       <p>AI-powered automations for organizational workflows, including document classification, chatbots, RPA, and data validation.</p>
       <p><code>FastAPI</code> <code>Docker</code> <code>RPA</code> <code>LLMs</code></p>
     </td>
@@ -81,7 +81,7 @@ Some of my earlier open-source work includes [OpenCV ROI Selection](https://gith
 </p>
 
 **AI:** LLMs · RAG · Agents · Embeddings · Computer Vision · OCR · Multimodal AI  
-**Backend & Deployment:** FastAPI · Docker · PostgreSQL · MinIO · Linux · Ollama · vLLM · LiteLLM  
+**Backend & Deployment:** FastAPI · Docker · PostgreSQL · MinIO · Linux · Ollama · vLLM · LiteLLM · llama.cpp  
 **Automation:** Selenium · n8n · RPA · Document Processing
 
 
@@ -95,11 +95,7 @@ Some of my earlier open-source work includes [OpenCV ROI Selection](https://gith
   </picture>
 </div>
 
-# 🚀 My Contributions Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amin-Tgz&theme=tokyo-night&hide_border=true" alt="Amin's contribution graph" />
-</div>
 
 <div align="center">
 
