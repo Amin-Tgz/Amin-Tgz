@@ -49,14 +49,14 @@ I began with Electrical Engineering, microcontrollers, embedded systems, and rob
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 Visual RAG</h3><p><i>Enterprise / private implementation</i></p>
-      <p>A Visual RAG system for searching and working with visual documents and multimodal information.</p>
-      <p><code>Computer Vision</code> <code>Multimodal AI</code> <code>vLLM</code></p>
+      <h3>🏙️ <a href="https://github.com/Amin-Tgz/CodeCity">CodeCity</a></h3>
+      <p>Explore any codebase as an interactive 3D city — classes as buildings, folders as districts. Select a building to highlight dependencies and preview source, entirely offline without executing project code.</p>
+      <p><code>JavaScript</code> <code>three.js</code> <code>Code Analysis</code> <code>Offline-First</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ AI Workflow Automation</h3><p><i>Enterprise / private implementation</i></p>
-      <p>AI-powered automations for organizational workflows, including document classification, chatbots, RPA, and data validation.</p>
-      <p><code>FastAPI</code> <code>Docker</code> <code>RPA</code> <code>LLMs</code></p>
+      <h3>🪑 <a href="https://github.com/Amin-Tgz/mizgerd">Mizgerd · میزگرد</a></h3>
+      <p>A personal AI round table — run multiple local or OpenAI-compatible models together with independent or deliberative conversations, editable roles, MCP tools, and usage tracking.</p>
+      <p><code>TypeScript</code> <code>Multi-LLM</code> <code>MCP</code> <code>SQLite</code></p>
     </td>
   </tr>
 </table>
